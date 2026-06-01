@@ -1,17 +1,41 @@
-# Services Website (Prototype)
+# Service Website 
 
-## Tech Stack
+A modern, responsive **creative studio / service agency landing page** built using HTML5 and Tailwind CSS.  
+This project is a frontend prototype designed to showcase a clean, professional agency-style website that could be expanded into a full production product.
+
+---
+
+## About the Project
+
+This website is a **frontend UI prototype** for a digital creative studio called *Studio*.  
+It focuses on strong typography, clean layout design, and modern landing page structure commonly used in real agency websites.
+
+The goal of this project is to practice:
+- Building responsive layouts
+- Designing modern UI sections
+- Using Tailwind CSS efficiently
+- Structuring a production-style landing page
+
+---
+
+## Features
+
+- Fully responsive design (mobile, tablet, desktop)
+- Modern UI with Tailwind CSS utility classes
+- Clean typography system (Syne + DM Sans fonts)
+- Hero section with visual background effects
+- Reusable service cards with hover interactions
+- Stats section (projects, experience, clients)
+- Conversion-focused CTA section
+- Professional footer layout
+
+---
+
+## Built With
+
 - HTML5
-- Tailwind 
+- Tailwind CSS (via CDN)
+- Google Fonts
+- Custom CSS (for hero background effects)
 
-## About
-This is a prototype services website that I plan to expand into a full project in the future.  
-It is currently a static frontend design made for practice and layout experimentation.
 
-## Purpose
-- Practice modern web design
-- Experiment with Tailwind CSS layouts
-- Build a foundation for a future full-stack version
-
-## Status
-Work in progress / early prototype
