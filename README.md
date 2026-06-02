@@ -1,41 +1,61 @@
-# Service Website 
+# About Me
 
-A modern, responsive **creative studio / service agency landing page** built using HTML5 and Tailwind CSS.  
-This project is a frontend prototype designed to showcase a clean, professional agency-style website that could be expanded into a full production product.
+A personal website built with HTML and Tailwind CSS to introduce myself, share my learning journey, and practice web development.
 
----
+## Overview
 
-## About the Project
-
-This website is a **frontend UI prototype** for a digital creative studio called *Studio*.  
-It focuses on strong typography, clean layout design, and modern landing page structure commonly used in real agency websites.
-
-The goal of this project is to practice:
-- Building responsive layouts
-- Designing modern UI sections
-- Using Tailwind CSS efficiently
-- Structuring a production-style landing page
-
----
+This project is a simple personal website created as part of my web development learning journey. The website showcases information about me, my programming interests, and the technologies I am currently learning.
 
 ## Features
 
-- Fully responsive design (mobile, tablet, desktop)
-- Modern UI with Tailwind CSS utility classes
-- Clean typography system (Syne + DM Sans fonts)
-- Hero section with visual background effects
-- Reusable service cards with hover interactions
-- Stats section (projects, experience, clients)
-- Conversion-focused CTA section
-- Professional footer layout
+* Modern landing page
+* Responsive design
+* Custom hero section
+* Learning progress cards
+* Personal statistics section
+* Smooth and clean UI
+* Built with Tailwind CSS
 
----
+## Technologies Used
 
-## Built With
+* HTML5
+* Tailwind CSS
+* CSS
+* Google Fonts
 
-- HTML5
-- Tailwind CSS (via CDN)
-- Google Fonts
-- Custom CSS (for hero background effects)
+## Why I Built This
 
+I created this project to practice:
 
+* HTML structure
+* Tailwind CSS
+* Responsive layouts
+* Website design principles
+* Building complete web pages from scratch
+
+## What I Learned
+
+While working on this project, I learned:
+
+* How to structure a website
+* Using Flexbox and Grid layouts
+* Creating reusable sections
+* Styling with Tailwind CSS
+* Improving website appearance with custom CSS
+
+## Future Improvements
+
+* Add a projects section
+* Add social media links
+* Add dark mode
+* Add animations
+* Improve mobile responsiveness
+* Create a contact section
+
+## Author
+
+Green Gh0st
+
+## Status
+
+Currently under development as I continue learning web development and building new projects.
